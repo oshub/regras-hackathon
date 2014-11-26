@@ -7,3 +7,7 @@ Em atualização.
 
 #### 2 - Onde?
 * Online!
+
+#### 3 - Regras:
+* O projeto DEVE ser versionado no GitHub;
+* Deve-se usar pelo menos 1 tecnologia Open Source;
